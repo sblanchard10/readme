@@ -1,5 +1,9 @@
 # README Generator
 
+## Screen Record Link
+
+https://watch.screencastify.com/v/fwzfa3CcPKThfb9Pu8cb
+
 ## Description
 
 A Node app that generates README files for new projects.
